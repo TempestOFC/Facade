@@ -62,11 +62,10 @@ Facade/
 └── Main.java
 
 
----
+
 
 ## 📊 Diagrama UML (Mermaid)
 
-```mermaid
 classDiagram
     class Cliente {
         - String nome
@@ -145,7 +144,8 @@ classDiagram
     PacoteViagemFacade ..> AluguelCarro
     PacoteViagemFacade ..> ProcessadorPagamento
     Main ..> PacoteViagemFacade
-----
+
+
 
 
 🚀 Como Executar
