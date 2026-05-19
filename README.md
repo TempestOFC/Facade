@@ -62,7 +62,7 @@ Facade/
 └── Main.java
 
 
-
+---
 
 ## 📊 Diagrama UML (Mermaid)
 
@@ -145,8 +145,7 @@ classDiagram
     PacoteViagemFacade ..> AluguelCarro
     PacoteViagemFacade ..> ProcessadorPagamento
     Main ..> PacoteViagemFacade
-
-
+----
 
 
 🚀 Como Executar
